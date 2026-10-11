@@ -19,6 +19,9 @@
 - Сайт: [neyrostroy.ru](https://neyrostroy.ru)
 - Дзен: [«НейроСтрой — нейросети на практике»](https://dzen.ru/neyrostroy_ai)
 - YouTube: [канал НейроСтрой](https://www.youtube.com/@Neyrostroy-ai)
+- ВКонтакте: [НейроСтрой — нейросети на практике](https://vk.com/neyrostroy_ai) и [VK Видео](https://vkvideo.ru/@neyrostroy_ai)
+- RUTUBE: [канал НейроСтрой](https://rutube.ru/channel/82031035/)
+- Telegram-бот: [@NeyrostroyAI_bot](https://t.me/NeyrostroyAI_bot)
 - ИИ-юрист: [urist.neyrostroy.ru](https://urist.neyrostroy.ru)
 - Презентации: [slides.neyrostroy.ru](https://slides.neyrostroy.ru)
 
